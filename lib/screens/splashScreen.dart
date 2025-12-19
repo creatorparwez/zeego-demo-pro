@@ -55,7 +55,12 @@ class _SplashscreenState extends ConsumerState<Splashscreen> {
         height: 1.sh,
         width: 1.sw,
         color: Colors.blue,
-        child: Center(child: Text("Hello Bhai")),
+        child: Center(
+          child: Text(
+            "Hello Bhai",
+            style: TextStyle(fontSize: 45, color: Colors.white),
+          ),
+        ),
       ),
     );
   }
