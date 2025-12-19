@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434388599282",
+    "project_id": "zego-demo-pro",
+    "storage_bucket": "zego-demo-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434388599282:android:828f61a89bc9ffddfc6b6b",
+        "android_client_info": {
+          "package_name": "com.example.new_zeego_proo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiwBLjIxnGnCivwWTdOCimqnjd3zBDMB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
